@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  color: #808080;
+  font-size: 13px;
+  overflow: hidden;
+  text-align: center;
+  font-family: Monospace;
+  background-color: #000;
+}
+
+#container {
+  background-color: #000;
+}
